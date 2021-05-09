@@ -1,5 +1,5 @@
 # About me
-Hi! My name is Elroy Parkinson. I live in Johannesburg, South Africa and this is my blog.
+Hi! My name is Elroy Parkinson. I live in Johannesburg, South Africa.
 
 I am a Solutions Architect with 20 year's experience as an IT professional. I have a very analytical mind and love finding elegant, simple, cost-effective technical solutions to tough business problems. I am particularly interested in Cloud Architecture, containerization using Kubernetes, Agile software development and Spring Boot micro-services.
 
