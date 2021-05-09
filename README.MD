@@ -12,3 +12,7 @@ Me on the web:
 - [Github](https://github.com/eparkinson)
 - [Goodreads](https://www.goodreads.com/user/show/71123210-elroy-parkinson)
 - [Flickr](https://www.flickr.com/photos/elroy_p/)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
