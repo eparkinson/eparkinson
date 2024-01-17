@@ -13,4 +13,5 @@ Me on the web:
 - [Goodreads](https://www.goodreads.com/user/show/71123210-elroy-parkinson)
 - [Flickr](https://www.flickr.com/photos/elroy_p/)
 - My Blog: [softwarependula.net](https://www.softwarependula.net/)
+- Trying to find ways for small and medium businesses to benefit from recent of AI advances, starting with [chat-leads.net](https://www.chat-leads.net/)
 
